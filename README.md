@@ -54,6 +54,6 @@ Dive into the digital world of Yashas, where cutting-edge Artificial Intelligenc
 Discover more of my work on GitHub. Let's collaborate and innovate together!
 
 📢 **Connect with Me**
-- **LinkedIn**: [Yashas D](https://www.linkedin.com/in/yashasd2004/))
+- **LinkedIn**: [Yashas D](https://www.linkedin.com/in/yashasd2004/)
 
 Feel free to reach out with any questions or collaboration opportunities! Enjoy exploring my portfolio and witnessing my journey in AI and ML!
