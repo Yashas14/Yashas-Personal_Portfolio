@@ -1,6 +1,5 @@
-# Yashas-Personal_Portfolio
-PersonalPortfolio
 # Yashas's Personal Portfolio
+PersonalPortfolio
 
 🌐 **Yashas's Digital Portfolio: Unveiling Innovation in AI and ML**
 
